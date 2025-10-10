@@ -71715,18 +71715,18 @@ g=$.kd
 f=$.aE2
 e=A.U(f).h("a_<1,eL<u>>")
 f=A.V(new A.a_(f,new A.abr(),e),e.h("as.E"))
-j=A.bS(A.aiW(i,h,j,B.UH,!0,f,c,new A.abs(a),B.bS,g,t.N),c,240)
+j=A.bS(A.aiW(i,h,j,B.UI,!0,f,c,new A.abs(a),B.bS,g,t.N),c,240)
 i=$.kd==null
 h=i?B.eR:B.hV
 g=t.rc
 h=A.iW(c,c,c,new A.aP(h,g),c,c,c,c,new A.aP(B.i,g),c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c)
 f=!i
-h=A.bS(A.pq(B.Uw,f?new A.abt(a1):c,h),c,200)
+h=A.bS(A.pq(B.Ux,f?new A.abt(a1):c,h),c,200)
 e=A.iW(c,c,c,new A.aP(i?B.eR:B.hV,g),c,c,c,c,new A.aP(B.i,g),c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c)
-e=A.bS(A.pq(B.Ur,f?new A.abu(a1):c,e),c,200)
+e=A.bS(A.pq(B.Us,f?new A.abu(a1):c,e),c,200)
 g=A.iW(c,c,c,new A.aP(i?B.eR:B.hV,g),c,c,c,c,new A.aP(B.i,g),c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c)
 i=t.p
-return new A.dG(new A.a2(0,b,300,d.c),A.br(c,new A.bZ(new A.au(o,o,o,o),A.br(c,A.Ij(A.ep(A.b([B.Uq,B.h4,B.UK,B.Pn,B.yr,B.dh,j,B.Pp,h,B.h4,e,B.h4,A.bS(A.pq(B.Un,f?new A.abv(a1):c,g),c,200),B.dg,A.hB(A.b([A.pC(c,c,B.Gg,c,c,new A.abw(a,a1),c,c,c)],i),B.Z,B.fs,B.ay,c)],i),B.Z,B.a1,B.aY),c,new A.au(l,l,l,24*q+k),B.ez,B.ao),B.m,c,c,new A.by(n,c,c,m,c,c,B.M),c,c,c,c,c,c,c),c),B.m,c,c,new A.by(c,c,c,p,c,new A.kU(a0,s,B.bT,r,c,c),B.M),c,c,c,c,c,c,b),c)},
+return new A.dG(new A.a2(0,b,300,d.c),A.br(c,new A.bZ(new A.au(o,o,o,o),A.br(c,A.Ij(A.ep(A.b([B.Ur,B.h4,B.UK,B.Pn,B.yr,B.dh,j,B.Pp,h,B.h4,e,B.h4,A.bS(A.pq(B.Uo,f?new A.abv(a1):c,g),c,200),B.dg,A.hB(A.b([A.pC(c,c,B.Gg,c,c,new A.abw(a,a1),c,c,c)],i),B.Z,B.fs,B.ay,c)],i),B.Z,B.a1,B.aY),c,new A.au(l,l,l,24*q+k),B.ez,B.ao),B.m,c,c,new A.by(n,c,c,m,c,c,B.M),c,c,c,c,c,c,c),c),B.m,c,c,new A.by(c,c,c,p,c,new A.kU(a0,s,B.bT,r,c,c),B.M),c,c,c,c,c,c,b),c)},
 $S:457}
 A.abr.prototype={
 $1(a){var s=null
@@ -71815,7 +71815,7 @@ m=m==null?n:m.i(0,"items")}}t.kc.a(m)
 m=m==null?n:J.Rj(m,t.N)
 p=m==null?A.b([],t.s):m}else p=A.b([],t.s)
 m=A.yQ(n,n,A.ajC(A.T(a).ok),!0)
-return A.ajt(!1,A.HB(A.Ry(B.f,A.pC(n,n,A.Fx(B.fb,B.a7,n),n,n,new A.acI(a),n,n,n),B.Uv),A.id(new A.acJ(o,s,q,p))),m)}}
+return A.ajt(!1,A.HB(A.Ry(B.f,A.pC(n,n,A.Fx(B.fb,B.a7,n),n,n,new A.acI(a),n,n,n),B.Uw),A.id(new A.acJ(o,s,q,p))),m)}}
 A.acI.prototype={
 $0(){A.co(this.a,!1).eX(null)},
 $S:0}
@@ -71846,7 +71846,7 @@ i=e.d
 h=A.U(i).h("a_<1,eL<u>>")
 i=A.V(new A.a_(i,new A.acz(),h),h.h("as.E"))
 h=t.N
-j=A.bS(A.amO(l,m,B.v,B.Uz,!0,i,new A.acA(k),j,h),50,200)
+j=A.bS(A.amO(l,m,B.v,B.UA,!0,i,new A.acA(k),j,h),50,200)
 i=A.Y(115,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255)
 m=A.bc(12)
 l=k.e
@@ -72060,7 +72060,7 @@ $.a4()
 a6=A.x5(0,A.RP(A.br(c1,c1,B.m,A.Y(0,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),c1,c1,c1,c1,c1,c1,c1,c1,c1),new A.lK(15,15,c1)))
 a7=A.bS(c1,30,c1)
 a8=t.p
-a9=A.hB(A.b([A.br(B.W,B.UE,B.m,c1,c1,new A.by(A.Y(140,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),c1,c1,A.bc(12),c1,c1,B.M),c1,40,c1,c1,c1,c1,50),B.xu,A.kC(A.br(B.W,B.Uk,B.m,c1,c1,new A.by(A.Y(140,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),c1,c1,A.bc(12),c1,c1,B.M),c1,40,c1,c1,c1,c1,c1),5),B.xu,A.br(B.W,B.Ux,B.m,c1,c1,new A.by(A.Y(140,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),c1,c1,A.bc(12),c1,c1,B.M),c1,40,c1,c1,c1,c1,70)],a8),B.Z,B.ft,B.ay,c1)
+a9=A.hB(A.b([A.br(B.W,B.UF,B.m,c1,c1,new A.by(A.Y(140,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),c1,c1,A.bc(12),c1,c1,B.M),c1,40,c1,c1,c1,c1,50),B.xu,A.kC(A.br(B.W,B.Uk,B.m,c1,c1,new A.by(A.Y(140,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),c1,c1,A.bc(12),c1,c1,B.M),c1,40,c1,c1,c1,c1,c1),5),B.xu,A.br(B.W,B.Uy,B.m,c1,c1,new A.by(A.Y(140,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),c1,c1,A.bc(12),c1,c1,B.M),c1,40,c1,c1,c1,c1,70)],a8),B.Z,B.ft,B.ay,c1)
 b0=A.bS(c1,10,c1)
 b1=l.Q
 b1=A.bS(A.a3G(new A.bZ(B.lW,A.nF(A.anw(b1,new A.aca(l,q),l.a.c.length,new A.au(f,n,f,n),B.ez),b1,B.aw,!0,c1,0,A.ha(),B.w,c1,c1,c1,B.a7,!0,B.aS,c1,c1),c1),new A.hE(new A.aP(!0,t.yg),new A.aP(8,t.YI),c1,c1,B.bv,new A.aK(new A.acb(),t.b),new A.aP(B.I,t.rc),c1,c1,c1,c1)),a1,c1)
@@ -72199,15 +72199,15 @@ $S:6}
 A.acd.prototype={
 $2(a,b){var s=null,r=$.R1
 r.toString
-return A.Vg(B.W,A.hB(A.b([B.UD,A.bO(B.d.P(r,0),s,s,s,B.k4,s,s)],t.p),B.Z,B.d_,B.ay,s),B.eA)},
+return A.Vg(B.W,A.hB(A.b([B.UE,A.bO(B.d.P(r,0),s,s,s,B.k4,s,s)],t.p),B.Z,B.d_,B.ay,s),B.eA)},
 $S:99}
 A.ace.prototype={
 $2(a,b){var s=null
-return A.Vg(B.W,A.hB(A.b([B.UC,A.bO(B.d.P($.ahQ,0),s,s,s,B.k4,s,s)],t.p),B.Z,B.d_,B.ay,s),B.eA)},
+return A.Vg(B.W,A.hB(A.b([B.UD,A.bO(B.d.P($.ahQ,0),s,s,s,B.k4,s,s)],t.p),B.Z,B.d_,B.ay,s),B.eA)},
 $S:99}
 A.acf.prototype={
 $2(a,b){var s=null
-return A.Vg(B.W,A.hB(A.b([B.UG,A.bO(B.d.P(this.a,2),s,s,s,B.k4,s,s)],t.p),B.Z,B.d_,B.ay,s),B.eA)},
+return A.Vg(B.W,A.hB(A.b([B.UH,A.bO(B.d.P(this.a,2),s,s,s,B.k4,s,s)],t.p),B.Z,B.d_,B.ay,s),B.eA)},
 $S:99}
 A.ze.prototype={
 aj(){return new A.Cc(A.x(t.N,t.gO),A.b(["Prelims","Prelims & Midterms","Prelims, Midterms, and Finals"],t.s),A.b([1,1.25,1.5,1.75,2,2.25,2.5,2.75,3,4,5],t.n),A.x(t.S,t._O))}}
@@ -72235,7 +72235,7 @@ if(g!=null){l+=g*f
 k+=f}}if(k>0)d.p(0,o,B.d.an(l/k*4)/4)}s=e.c
 s.toString
 A.art(B.K,!0,"Dismiss",s,new A.agq(),new A.agr(e,d),B.aS,t.X)},
-N(a){var s,r,q,p,o,n,m=this,l=null,k=B.b.dl(m.grd(),new A.agj(m)),j=A.Ry(B.f,A.pC(l,l,B.Gf,l,l,new A.agk(a),l,l,l),B.UI),i=A.bc(25),h=A.Y(115,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),g=A.bc(25),f=A.DC(B.bL,2),e=A.bc(25)
+N(a){var s,r,q,p,o,n,m=this,l=null,k=B.b.dl(m.grd(),new A.agj(m)),j=A.Ry(B.f,A.pC(l,l,B.Gf,l,l,new A.agk(a),l,l,l),B.Um),i=A.bc(25),h=A.Y(115,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),g=A.bc(25),f=A.DC(B.bL,2),e=A.bc(25)
 $.a4()
 s=A.x5(0,A.RP(A.br(l,l,B.m,A.Y(0,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),l,l,l,l,l,l,l,l,l),new A.lK(15,15,l)))
 r=A.Y(217,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255)
@@ -72245,7 +72245,7 @@ o=m.f
 n=A.U(o).h("a_<1,eL<u>>")
 o=A.V(new A.a_(o,new A.agl(),n),n.h("as.E"))
 n=t.p
-p=A.b([A.aiW(q,B.GD,r,B.Us,!1,o,l,new A.agm(m),B.bS,p,t.N),B.dh],n)
+p=A.b([A.aiW(q,B.GD,r,B.Ut,!1,o,l,new A.agm(m),B.bS,p,t.N),B.dh],n)
 if(m.d!=null)p.push(A.kC(A.anw(l,new A.agn(m),m.grd().length,l,l),1))
 p.push(B.h4)
 if(m.d!=null){r=!k?B.eR:B.CH
@@ -72261,7 +72261,7 @@ A.agr.prototype={
 $4(a,b,c,d){var s=null,r=t.Ni,q=A.bQ(B.EC,b,s),p=A.bc(16),o=this.b,n=A.m(o).h("d7<1,2>")
 n=A.G4(new A.d7(o,n),new A.ago(this.a),n.h("r.E"),t.As)
 o=A.V(n,A.m(n).h("r.E"))
-return new A.dt(b,!1,A.Iq(new A.De(B.UB,A.ep(o,B.bq,B.a1,B.aY),A.b([new A.IN(new A.agp(a),s,s,s,s,s,s,!1,s,!0,s,B.Uo,s)],t.p),B.a7,new A.ci(p,B.yK),s),new A.aw(q,new A.aq(B.LS,B.j,r),r.h("aw<ar.T>")),s,!0),s)},
+return new A.dt(b,!1,A.Iq(new A.De(B.UC,A.ep(o,B.bq,B.a1,B.aY),A.b([new A.IN(new A.agp(a),s,s,s,s,s,s,!1,s,!0,s,B.Up,s)],t.p),B.a7,new A.ci(p,B.yK),s),new A.aw(q,new A.aq(B.LS,B.j,r),r.h("aw<ar.T>")),s,!0),s)},
 $S:476}
 A.ago.prototype={
 $1(a){var s=null
@@ -72387,7 +72387,7 @@ p=A.bc(12)
 r.push(A.br(e,f.VS(),B.m,e,e,new A.by(q,e,e,p,e,e,B.M),e,e,e,B.f5,e,e,e))}return A.HB(d,A.br(e,A.en(A.ep(A.b([c,a,A.f9(a0,A.br(e,A.f9(a4,A.eZ(B.b0,A.b([s,new A.bZ(B.FB,A.ep(r,B.bq,B.a1,B.ay),e)],b),B.T,B.aM,e),B.av),B.m,e,e,new A.by(a1,e,a3,a2,e,e,B.M),e,450,e,e,e,e,350),B.av)],b),B.Z,B.a1,B.ay),e,e),B.m,e,e,B.dw,e,1/0,e,e,e,e,1/0))},
 VS(){var s,r=this,q=null,p="neededValues"
 if(r.y.i(0,"allFilled")===!0){s=A.bH(r.y.i(0,"currentAvg"))
-return A.bO(A.k3(r.y.i(0,"meetsGoal"))?"\u2705 Average = "+B.d.P(s,2)+" \u2192 Qualified for "+A.o(r.r)+"!":"\u274c Average = "+B.d.P(s,2)+" \u2192 Not Qualified for "+A.o(r.r),q,q,q,B.xP,q,q)}if(r.y.i(0,p)==null)return B.Up
+return A.bO(A.k3(r.y.i(0,"meetsGoal"))?"\u2705 Average = "+B.d.P(s,2)+" \u2192 Qualified for "+A.o(r.r)+"!":"\u274c Average = "+B.d.P(s,2)+" \u2192 Not Qualified for "+A.o(r.r),q,q,q,B.xP,q,q)}if(r.y.i(0,p)==null)return B.Uq
 return A.hB(A.b([A.bO("\u2705 Needed values range:   ",q,q,q,A.cu(q,q,B.a7,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bO(A.o(J.oG(r.y.i(0,p),0))+" \u2013 "+A.o(J.oG(r.y.i(0,p),1)),q,q,q,B.Tl,q,q)],t.p),B.Z,B.a1,B.ay,q)}}
 A.ag9.prototype={
 $0(){this.a.y=this.b},
@@ -76260,8 +76260,8 @@ B.Ks=new A.bh([100,B.Cw,200,B.DY,400,B.B9,700,B.DQ],t.o)
 B.I=new A.nf(B.Ks,1,1,0.43137254901960786,0.25098039215686274,B.c)
 B.cX=new A.ff(8,900)
 B.RE=new A.j(!0,B.I,null,null,null,null,18,B.cX,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UA=new A.bo("Select Course",null,B.RE,null,null,null,null,null,null)
-B.yr=new A.dT(B.du,null,null,B.UA,null)
+B.UB=new A.bo("Select Course",null,B.RE,null,null,null,null,null,null)
+B.yr=new A.dT(B.du,null,null,B.UB,null)
 B.ys=new A.dU(0,1)
 B.yt=new A.dU(0,-1)
 B.WN=new A.dU(1,0)
@@ -76824,8 +76824,8 @@ B.aX=new A.Eg(0,"base")
 B.ic=new A.Eg(1,"elevated")
 B.EN=new A.To(1,"latency")
 B.bS=new A.j(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ut=new A.bo("Subject",null,B.bS,null,null,null,null,null,null)
-B.EO=new A.kx(B.Ut)
+B.Uu=new A.bo("Subject",null,B.bS,null,null,null,null,null,null)
+B.EO=new A.kx(B.Uu)
 B.EP=new A.uD(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.EQ=new A.uE(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.lO=new A.my(0,"uninitialized")
@@ -77221,19 +77221,19 @@ B.Io=A.b(s([]),t.iG)
 B.Iw=A.b(s([]),t.XS)
 B.dW=A.b(s([B.cf,B.c2,B.ex,B.ey,B.hx]),t.QP)
 B.TT=new A.j(!0,B.I,null,null,null,null,22,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UF=new A.bo("How to Use",null,B.TT,null,null,null,null,null,null)
-B.AQ=new A.mo(B.W,null,null,B.UF,null)
+B.UG=new A.bo("How to Use",null,B.TT,null,null,null,null,null,null)
+B.AQ=new A.mo(B.W,null,null,B.UG,null)
 B.Po=new A.e2(null,16,null,null)
 B.h7=new A.j(!0,B.I,null,null,null,null,16,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Uu=new A.bo("1. Semestral Calculator:",null,B.h7,null,null,null,null,null,null)
+B.Uv=new A.bo("1. Semestral Calculator:",null,B.h7,null,null,null,null,null,null)
 B.k3=new A.j(!0,B.i,null,null,null,null,null,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Uy=new A.bo("Add all subjects you\u2019re currently taking, input your grades, and your Semestral GWA will be computed.",null,B.k3,null,null,null,null,null,null)
+B.Uz=new A.bo("Add all subjects you\u2019re currently taking, input your grades, and your Semestral GWA will be computed.",null,B.k3,null,null,null,null,null,null)
 B.dg=new A.e2(null,12,null,null)
-B.Um=new A.bo("2. Term Calculator:",null,B.h7,null,null,null,null,null,null)
+B.Un=new A.bo("2. Term Calculator:",null,B.h7,null,null,null,null,null,null)
 B.Ul=new A.bo("Pick which terms you have grades for, input them, and your GWA for the terms will be calculated.",null,B.k3,null,null,null,null,null,null)
 B.UP=new A.bo("3. Check Goal:",null,B.h7,null,null,null,null,null,null)
 B.UO=new A.bo("Input your current term grades to see what grades you need to reach your target honors.",null,B.k3,null,null,null,null,null,null)
-B.IO=A.b(s([B.AQ,B.Po,B.Uu,B.Uy,B.dg,B.Um,B.Ul,B.dg,B.UP,B.UO]),t.p)
+B.IO=A.b(s([B.AQ,B.Po,B.Uv,B.Uz,B.dg,B.Un,B.Ul,B.dg,B.UP,B.UO]),t.p)
 B.mw=A.b(s([B.co,B.m6,B.f7,B.p,B.a0,B.m7,B.ad,B.m8,B.cX]),A.ao("A<ff>"))
 B.d2=new A.fm(0,"controlModifier")
 B.d3=new A.fm(1,"shiftModifier")
@@ -79102,31 +79102,31 @@ B.Qn=new A.j(!0,B.f,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Uj=new A.dk(B.S6,B.R9,B.S7,B.SE,B.QM,B.QT,B.Rs,B.Su,B.RF,B.T6,B.Qf,B.Qv,B.T0,B.Tm,B.Qn)
 B.k7=new A.j(!0,B.I,null,null,null,null,14,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Uk=new A.bo("Subjects",null,B.k7,null,null,null,null,null,null)
-B.Un=new A.bo("Check Goal",null,null,null,null,null,null,null,null)
-B.Uo=new A.bo("OK",null,B.bS,null,null,null,null,null,null)
-B.Up=new A.bo("\u274c No possible values to meet goal",null,B.xP,null,null,null,null,null,null)
-B.Sn=new A.j(!0,B.I,null,null,null,null,24,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Uq=new A.bo("GWA Calculator",null,B.Sn,null,null,null,null,null,null)
-B.Ur=new A.bo("Term Calculator",null,null,null,null,null,null,null,null)
-B.Us=new A.bo("Select Term(s)",null,B.bS,null,null,null,null,null,null)
 B.k5=new A.j(!0,B.a7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Uv=new A.bo("Select Items",null,B.k5,null,null,null,null,null,null)
-B.Uw=new A.bo("Semestral Calculator",null,null,null,null,null,null,null,null)
-B.Ux=new A.bo("Grades",null,B.k7,null,null,null,null,null,null)
+B.Um=new A.bo("Term Average Calculator",null,B.k5,null,null,null,null,null,null)
+B.Uo=new A.bo("Check Goal",null,null,null,null,null,null,null,null)
+B.Up=new A.bo("OK",null,B.bS,null,null,null,null,null,null)
+B.Uq=new A.bo("\u274c No possible values to meet goal",null,B.xP,null,null,null,null,null,null)
+B.Sn=new A.j(!0,B.I,null,null,null,null,24,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Ur=new A.bo("GWA Calculator",null,B.Sn,null,null,null,null,null,null)
+B.Us=new A.bo("Term Calculator",null,null,null,null,null,null,null,null)
+B.Ut=new A.bo("Select Term(s)",null,B.bS,null,null,null,null,null,null)
+B.Uw=new A.bo("Select Items",null,B.k5,null,null,null,null,null,null)
+B.Ux=new A.bo("Semestral Calculator",null,null,null,null,null,null,null,null)
+B.Uy=new A.bo("Grades",null,B.k7,null,null,null,null,null,null)
 B.Cl=new A.f(0.7803921568627451,1,1,1,B.c)
 B.xO=new A.j(!0,B.Cl,null,null,null,null,null,null,B.cn,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Uz=new A.bo("Select Year Level",null,B.xO,null,null,null,null,null,null)
+B.UA=new A.bo("Select Year Level",null,B.xO,null,null,null,null,null,null)
 B.S8=new A.j(!0,B.i,null,null,null,null,null,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UB=new A.bo("Term Averages",null,B.S8,null,null,null,null,null,null)
+B.UC=new A.bo("Term Averages",null,B.S8,null,null,null,null,null,null)
 B.DX=new A.f(1,1,0.47843137254901963,0.3215686274509804,B.c)
 B.k6=new A.j(!0,B.DX,null,null,null,null,18,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UC=new A.bo("Acquired Units:   ",null,B.k6,null,null,null,null,null,null)
-B.UD=new A.bo("Required Units:   ",null,B.k6,null,null,null,null,null,null)
-B.UE=new A.bo("Units",null,B.k7,null,null,null,null,null,null)
-B.UG=new A.bo("General Weighted Average:   ",null,B.k6,null,null,null,null,null,null)
+B.UD=new A.bo("Acquired Units:   ",null,B.k6,null,null,null,null,null,null)
+B.UE=new A.bo("Required Units:   ",null,B.k6,null,null,null,null,null,null)
+B.UF=new A.bo("Units",null,B.k7,null,null,null,null,null,null)
+B.UH=new A.bo("General Weighted Average:   ",null,B.k6,null,null,null,null,null,null)
 B.R_=new A.j(!0,B.i,null,null,null,null,14,B.co,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UH=new A.bo("Select Course",null,B.R_,null,null,null,null,null,null)
-B.UI=new A.bo("Calculate Available Grades for Terms",null,B.k5,null,null,null,null,null,null)
+B.UI=new A.bo("Select Course",null,B.R_,null,null,null,null,null,null)
 B.UJ=new A.bo("Select Semester",null,B.xO,null,null,null,null,null,null)
 B.Tp=new A.j(!0,B.i,null,null,null,null,null,null,null,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.UK=new A.bo("School of Computing",null,B.Tp,null,null,null,null,null,null)
