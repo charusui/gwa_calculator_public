@@ -22066,35 +22066,36 @@ d=f.b
 if(d==null)continue
 c=A.qj(d)
 if(c==null)continue
-b=$.Ri().i(0,e)
-if(b==null)b=c2
-j+=c*b
-i+=b
-h+=b
+b=A.b([],k)
+for(a=new A.pV(q,q.r,q.e,o);a.u();){a0=a.d
+a1=a0.a
+for(a2=a0.b.gfL(),a2=a2.gR(a2);a2.u();){a3=a2.gH()
+a4=a3.a
+a5=a3.b
+a3=n.a(a5.i(0,"items"))
+if(a3==null)a6=null
+else{a3=J.alO(a3,s)
+a3=A.V(a3,a3.$ti.h("r.E"))
+a6=a3}if(a6==null)a6=A.b([],m)
+if(B.b.m(a6,e))b.push(A.Z(["year",a1,"semester",a4,"requiredMin",a5.i(0,b9),"items",a6],s,l))}}if(b.length===0)return""
+r.p(0,e,b)
+a7=$.Ri().i(0,e)
+if(a7==null)a7=c2
+j+=c*a7
+i+=a7
+h+=a7
 if(c>2){g=!0
-continue}a=A.b([],k)
-for(a0=new A.pV(q,q.r,q.e,o);a0.u();){a1=a0.d
-a2=a1.a
-for(a3=a1.b.gfL(),a3=a3.gR(a3);a3.u();){a4=a3.gH()
-a5=a4.a
-a6=a4.b
-a4=n.a(a6.i(0,"items"))
-if(a4==null)a7=null
-else{a4=J.alO(a4,s)
-a4=A.V(a4,a4.$ti.h("r.E"))
-a7=a4}if(a7==null)a7=A.b([],m)
-if(B.b.m(a7,e))a.push(A.Z(["year",a2,"semester",a5,"requiredMin",a6.i(0,b9),"items",a7],s,l))}}if(a.length===0)return""
-r.p(0,e,a)}if(i<=0){$.ahQ=h
+continue}}if(i<=0){$.ahQ=h
 return""}a8=j/i
 for(q=r.$ti,p=q.h("b4<2>"),q=p.h("@<r.E>").bb(q.h("aD<u,@>")),p=new A.fJ(new A.b4(r,p).gR(0),new A.ahv(),B.cP,q.h("fJ<1,2>")),o=t.S,q=q.y[1],a9=null,b0=-1;p.u();){n=p.d
 if(n==null)n=q.a(n)
 b1=n.i(0,b9)
-a2=A.c7(n.i(0,"year"))
-a5=A.c7(n.i(0,"semester"))
+a1=A.c7(n.i(0,"year"))
+a4=A.c7(n.i(0,"semester"))
 b2=A.Z(["First",1,"Second",2,"Third",3,"Fourth",4],s,o)
 b3=A.Z(["First",1,"Second",2],s,o)
-b4=B.b.ga3(a2.split(" "))
-b5=B.b.ga3(a5.split(" "))
+b4=B.b.ga3(a1.split(" "))
+b5=B.b.ga3(a4.split(" "))
 b6=b2.i(0,b4)
 if(b6==null)b6=0
 b7=b3.i(0,b5)
