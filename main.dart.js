@@ -73102,7 +73102,7 @@ g=m==null?null:m.i(0,o)
 f=$.Dq().i(0,i)
 if(f==null)f=3
 if(g!=null){d+=g*f
-c+=f}}if(c>0){b=B.d.ak(d/c*4)/4
+c+=f}}if(c>0){b=d/c
 if(b>2)e.p(0,i,b)}}a=a0.c.a0(t.LO).f
 a1=a0.c
 a1.toString
