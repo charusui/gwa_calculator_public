@@ -73739,12 +73739,12 @@ a=A.aM("Choose your school",a8,a8,a8,a8,a8,a8,a8,A.aL(a8,a8,B.aQ,a8,a8,a8,a8,a8,
 a0=A.apt(new A.agS(a7))
 a1=A.apt(new A.agT(a7,m,l))
 a2=A.aL(a8,a8,B.bJ,a8,a8,a8,a8,a8,a8,a8,a8,n,a8,a8,a8,a8,1.5,!0,a8,a8,a8,a8,a8,a8,a8,a8)
-a3=A.h6(a8,a8,A.aL(a8,a8,B.aQ,a8,a8,a8,a8,a8,a8,a8,a8,14,a8,a8,B.iP,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),"zejiji")
-a4=A.aL(a8,a8,B.aQ,a8,B.k1,a8,a8,a8,a8,a8,a8,14,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8)
+a3=A.h6(a8,a8,A.aL(a8,a8,B.aQ,a8,a8,a8,a8,a8,a8,a8,a8,12,a8,a8,B.iP,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),"zejiji")
+a4=A.aL(a8,a8,B.aQ,a8,B.k1,a8,a8,a8,a8,a8,a8,12,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8)
 a5=a7.d
 a5===$&&A.b()
 a6=t.p
-return A.yp(a8,A.ed(B.aJ,A.a([b0,k,A.dn(A.ra(new A.cJ(B.zi,A.rb(new A.cL(i,!1,A.bR(a8,A.e5(A.a([d,B.PN,c,B.cf,b,B.xK,new A.cG(B.ck,a8,a8,a,a8),B.cf,a0,B.xK,a1,B.xJ,A.Iu(a8,a8,a8,B.b8,a8,a8,!0,a8,A.h6(A.a([B.Qx,a3,B.Qv,A.h6(a8,a5,a4,"this.")],t.VO),a8,a2,a8),B.bm,a8,a8,B.af,B.ap),A.bu(a8,3,a8),A.dn(A.aM("Last modified 10/25",a8,a8,a8,a8,a8,a8,a8,A.aL(a8,a8,B.bJ,a8,a8,a8,a8,a8,a8,a8,a8,12,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8,a8,a8),a8,a8),B.cf],a6),B.S,B.Y,B.au),B.m,a8,a8,new A.bq(h,a8,e,g,f,a8,B.J),a8,a8,a8,a8,new A.ah(q,q,q,q),a8,a8,a8),a8),j,a8,!0),a8),new A.ah(s,r+56+a9.r.b,s,r),a8),a8,a8)],a6),B.M,B.av,a8),!1)}}
+return A.yp(a8,A.ed(B.aJ,A.a([b0,k,A.dn(A.ra(new A.cJ(B.zi,A.rb(new A.cL(i,!1,A.bR(a8,A.e5(A.a([d,B.PN,c,B.cf,b,B.xK,new A.cG(B.ck,a8,a8,a,a8),B.cf,a0,B.xK,a1,B.xJ,A.Iu(a8,a8,a8,B.b8,a8,a8,!0,a8,A.h6(A.a([B.Qx,a3,B.Qu,A.h6(a8,a5,a4,"this.")],t.VO),a8,a2,a8),B.bm,a8,a8,B.af,B.ap),A.bu(a8,3,a8),A.dn(A.aM("Last modified 10/25",a8,a8,a8,a8,a8,a8,a8,A.aL(a8,a8,B.bJ,a8,a8,a8,a8,a8,a8,a8,a8,10,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8,a8,a8),a8,a8),B.cf],a6),B.S,B.Y,B.au),B.m,a8,a8,new A.bq(h,a8,e,g,f,a8,B.J),a8,a8,a8,a8,new A.ah(q,q,q,q),a8,a8,a8),a8),j,a8,!0),a8),new A.ah(s,r+56+a9.r.b,s,r),a8),a8,a8)],a6),B.M,B.av,a8),!1)}}
 A.agV.prototype={
 $0(){A.az5(new A.agU(this.a),t.P)},
 $S:0}
@@ -73773,7 +73773,7 @@ r.un()}},
 $S:0}
 A.agI.prototype={
 $1(a){var s,r,q=null,p=Math.min(A.bT(a,q,t.w).w.a.a*0.9,450),o=A.Z(a).a80(A.alX(A.Z(a).ok)),n=A.b8(16),m=A.aM("Disclaimer",q,q,q,q,q,q,q,A.aL(q,q,B.aQ,q,q,q,q,q,q,q,q,q,q,q,B.C,q,q,!0,q,q,q,q,q,q,q,q),B.bm,q,q,q),l=A.aL(q,q,B.W,q,q,q,q,q,A.aHt().$0().d,q,q,15,q,q,q,q,1.5,!0,q,q,q,q,q,q,q,q)
-l=A.ra(A.Iu(q,q,q,B.b8,q,q,!0,q,A.h6(A.a([B.Qu,B.Qw,B.Qy,B.Qt,B.Qs],t.Ne),q,l,q),B.bm,q,q,B.af,B.ap),q,q)
+l=A.ra(A.Iu(q,q,q,B.b8,q,q,!0,q,A.h6(A.a([B.Qv,B.Qw,B.Qy,B.Qt,B.Qs],t.Ne),q,l,q),B.bm,q,q,B.af,B.ap),q,q)
 s=A.aCe(q,q,q,q,q,q,q,q,q,B.aQ,q,q,q,q,q,q,q,q,B.S_,q)
 r=A.aM("I understand, Proceed",q,q,q,q,q,q,q,A.aL(q,q,B.i5,q,q,q,q,q,q,q,q,20,q,q,B.C,q,q,!0,q,q,q,q,q,q,q,q),q,q,q,q)
 r=new A.p8(r,q,new A.agG(),q,!0,B.u,q,q,q,q,B.u,B.u,q)
@@ -81771,9 +81771,9 @@ B.Qr=new A.zo(null,null,null)
 B.Qs=new A.f3(".",null,null,B.aW,null)
 B.Ro=new A.l(!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.k1,null,null,null,null,null,null,null,null)
 B.Qt=new A.f3("hau.edu.ph",null,null,B.aW,B.Ro)
-B.Qu=new A.f3("This GWA calculator is an ",null,null,B.aW,null)
-B.y6=new A.l(!0,null,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qv=new A.f3(". This calculator was inspired by ",null,null,B.aW,B.y6)
+B.y6=new A.l(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Qu=new A.f3(". This calculator was inspired by ",null,null,B.aW,B.y6)
+B.Qv=new A.f3("This GWA calculator is an ",null,null,B.aW,null)
 B.y5=new A.l(!0,null,null,null,null,null,null,B.C,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Qw=new A.f3("independent student project and is unofficial",null,null,B.aW,B.y5)
 B.Qx=new A.f3("If you have any questions or suggestions feel free to message me on my discord: ",null,null,B.aW,B.y6)
